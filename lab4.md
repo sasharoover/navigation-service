@@ -67,40 +67,40 @@ to be a standalone application capable of running on Android devices.
 
 #Functional 
 - Guitar Lesson: Notes
-*REQ-1: The software must respond to multiple touches that correspond to the 
+* REQ-1: The software must respond to multiple touches that correspond to the 
       correct finger positions for a specific note.
-*REQ-2: The software will allow a user to move forward if they are unable to complete a note via a skip button.
-*REQ-3: The software will inform the user when they have duplicated a note unsuccessfully.
+* REQ-2: The software will allow a user to move forward if they are unable to complete a note via a skip button.
+* REQ-3: The software will inform the user when they have duplicated a note unsuccessfully.
 
 -Guitar Lesson: Chords
-*REQ-1: The software must respond to multiple touches that correspond to the correct finger 
+* REQ-1: The software must respond to multiple touches that correspond to the correct finger 
     positions for a specific chord.
-*REQ-2: The software will allow a user to move forward if they are unable to complete a chord via a skip button.
-*REQ-3: The software will inform the user when they have duplicated a chord unsuccessfully.
+* REQ-2: The software will allow a user to move forward if they are unable to complete a chord via a skip button.
+* REQ-3: The software will inform the user when they have duplicated a chord unsuccessfully.
 
 -Music Dictionary
-*REQ-1: The software must allow the user to easily find the term that they are looking for in the music dictionary (assuming it is in the dictionary). This will be accomplished by allowing multiple search techniques.
-*REQ-2: Each stage in the search must have an option to return to the application’s
+* REQ-1: The software must allow the user to easily find the term that they are looking for in the music dictionary (assuming it is in the dictionary). This will be accomplished by allowing multiple search techniques.
+* REQ-2: Each stage in the search must have an option to return to the application’s
   main menu so that it may again be reached.
-*REQ-3: If a term is not found by the search tool, the user must be informed of such.
+* REQ-3: If a term is not found by the search tool, the user must be informed of such.
 
 -Metronome
-REQ-1: The software must allow a user to start or stop the metronome on demand. 
-REQ-2: The software must allow the user to adjust the tempo of the metronome.
-REQ-3: The software must provide a means to return from the metronome to the main menu.
+* REQ-1: The software must allow a user to start or stop the metronome on demand. 
+* REQ-2: The software must allow the user to adjust the tempo of the metronome.
+* REQ-3: The software must provide a means to return from the metronome to the main menu.
 
 -Guitar Tuner
-*REQ-1: The software must allow a user to pick a string to tune at any time.
-*REQ-2: The software must allow the user to re-listen to the correct pitch for a string at 
+* REQ-1: The software must allow a user to pick a string to tune at any time.
+* REQ-2: The software must allow the user to re-listen to the correct pitch for a string at 
   any time after selecting that string.
-*REQ-3: The software must provide a means to return from the guitar tuner to the main menu.
+* REQ-3: The software must provide a means to return from the guitar tuner to the main menu.
 
 
 -Scale Finder
-*REQ-1: The software must allow the user to exit at any moment.
-*REQ-2: The software must include multiple drop-down lists to select the keys.
-*REQ-3: The software must display the guitar neck complete with fingerings when the user selects a specific scale pattern and key.
-*REQ-4: The user must be able to go back at any moment.
+* REQ-1: The software must allow the user to exit at any moment.
+* REQ-2: The software must include multiple drop-down lists to select the keys.
+* REQ-3: The software must display the guitar neck complete with fingerings when the user selects a specific scale pattern and key.
+* REQ-4: The user must be able to go back at any moment.
 
 #non-functional requirements
 - Performance Requirements
