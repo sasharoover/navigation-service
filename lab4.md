@@ -18,12 +18,12 @@ Motivation?
  just by using our app.
 
 Structure
--Guitar lessons for the learning and practice of guitar playing.
--A metronome for practice of guitar playing.
--A list of music terminology to aid the unfamiliar user.
--A tool to aid in the tuning of a user’s guitar.
--A scale finder to display different guitar scales for the user to learn.
--A chord finder to display chords for the user to learn.
+- Guitar lessons for the learning and practice of guitar playing.
+- A metronome for practice of guitar playing.
+- A list of music terminology to aid the unfamiliar user.
+- A tool to aid in the tuning of a user’s guitar.
+- A scale finder to display different guitar scales for the user to learn.
+- A chord finder to display chords for the user to learn.
 
 Compare the structure of the document with the template provided for the course group work. 
 How does it differ? Is there more? Less? 
@@ -36,11 +36,11 @@ What the system (will) do?
 - The bulk of the software is feature based, and not necessarily functionality based. 
 This means that all of the use cases are equally as important.
 Features
-  *Metronome 
-  *Lessons
-  *Tuner
-  *Scale Finder
-  *Music Dictionary
+  * Metronome 
+  * Lessons
+  * Tuner
+  * Scale Finder
+  * Music Dictionary
   
   
 Use case diagram
@@ -119,3 +119,17 @@ How does (will) it look?
 - It is good and better than any other document we have seen
 - There are few diagrams but they are complicated
 
+
+# About this lab:
+
+Editors: 
+- Jeremy Kyejo
+- Zelalem Kebede
+- Masinde Masinde
+- Aleksandr Tikachev
+- Gleb Taev
+- Bilen Gerawork
+
+
+link to original document
+[a link](http://johnthomasolson.com/uploads/3/2/0/1/3201775/team4_d3a.pdf)
