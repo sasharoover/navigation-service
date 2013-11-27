@@ -14,9 +14,8 @@
    * 3. Choose navigation
    * 2. Choose specific destination,showing the shortest path
    * 3. Internet could fail
-   * 4. Emial,alarm and other notifications  they will come acording to the significance and timing of course.
-   * 5. Successful after reaching at the destination faster and also getting the important informations going on.
-   * 
+   * 4. E-mail,alarm and other notifications  they will come acording to the significance and timing of course.
+   * 5. Successful user happy :) .
   
   
 3. Flowchart using astah
