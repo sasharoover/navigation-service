@@ -18,7 +18,7 @@
   
   
 3. Flowchart using astah
- [myflowchart](http://users.metropolia.fi/~bileng/SoftEng/flowchart.JPG)
+ ![myflowchart](http://users.metropolia.fi/~bileng/SoftEng/flowchart.JPG)
   
   
 ##B. User interface
