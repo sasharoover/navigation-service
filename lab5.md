@@ -2,15 +2,17 @@
 
 ##A. Use cases scenario and flow chart
 ###1. use cases for our project
-  * as a user i can see the location of people inside the school so that i can avoid some classes.
-  * as a user i can see schedules so that i know the next class time.
-  * as a user i can get alerts whenever new email is received (school email) so i know if i have received new emails.
-  * as a user i can choose alert option like silent, vibrate, ring so that i can switch to silent mode during lecture.
-  * as a user i can select show events from other metropolia campus so that i can participate in different events.
+  * location of people inside the school 
+  * schedules 
+  * alerts whenever new email is received (school email) 
+  * choose alert option like silent, vibrate, ring 
+  * show events from other metropolia campus erent events.
   
 2. Use case scenario following the template:
-   * 1. Navigation option
-   * 2. Choosing a specific destination,showing the shortest path
+   * 1. Open the phone 
+   * 2. Open the app
+   * 3. Choose navigation
+   * 2. Choose specific destination,showing the shortest path
    * 3. Internet could fail
    * 4. Emial,alarm and other notifications  they will come acording to the significance and timing of course.
    * 5. Successful after reaching at the destination faster and also getting the important informations going on.
@@ -18,7 +20,7 @@
   
   
 3. Flowchart using astah
- ![myflowchart](http://users.metropolia.fi/~bileng/SoftEng/flowchart.JPG)
+ ![myflowchart](http://users.metropolia.fi/~bileng/SoftEng/flowchart.PNG)
   
   
 ##B. User interface
@@ -34,7 +36,7 @@
    * It updates the user for every schedule that is happening soon.
       
 ###3. Mockup of the views
-   *[mymoqup](http://users.metropolia.fi/~bileng/SoftEng/moqupsPNG.PNG)
+   ![mymoqup](http://users.metropolia.fi/~bileng/SoftEng/moqup.PNG)
       
 ###4. Description of state transition between the views
    * The navigation leads to the map showing the shortest path.
