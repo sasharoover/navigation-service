@@ -15,7 +15,7 @@
    * 2. Choose specific destination,showing the shortest path
    * 3. Internet could fail
    * 4. E-mail,alarm and other notifications  they will come acording to the significance and timing of course.
-   * 5. Successful user happy :) .
+   * 5. Successful user is happy :) .
   
   
 3. Flowchart using astah
