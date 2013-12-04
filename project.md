@@ -22,7 +22,7 @@ Depiction of one use case as a flow chart
 High-level overview of the system
 Main modules and their functions represented
  
-5. Requirements (in traceable (and measurable) format) - sasha
+5. Requirements (in traceable (and measurable) format) - Sasha
  
 Functional requirements
 Non-functional system requirements
@@ -32,12 +32,12 @@ Efficiency: there are multiple people using your system. How do ensure that the 
 What other non-functional requirements should be documented?
 What kind of metrics you should use to guarantee unambiguity?
  
-6. User interface - masinde
+6. User interface - Masinde
  
 What are the views / components of the system? What are the functionalities of each view?
 Illustrate each view and what it is used for (Textual explanation ok, no need for pictures!)
 
-7. Project management, self reflection - zelalem
+7. Project management, self reflection - Zelalem
  
 List the realized working hours, that is, how many hours did this work really take. List the hours separately per person.
 Was it difficult to estimate workload, how much the estimation differed from real working hours?
