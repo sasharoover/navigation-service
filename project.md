@@ -21,7 +21,7 @@ Depiction of one use case as a flow chart
 ##4.1 High-level overview of the system
 Kana2.0 is a navigation app with more interesting features. The database is consisted of the whole school map. The app runs using the WIFI to detect the position of the user. It is an indoor GPS system.
 ###4.2 Main modules and their functions represented
-
+![myflowchart](http://users.metropolia.fi/~bileng/SoftEng/HL.JPG)
 5. Requirements (in traceable (and measurable) format) - Sasha
  
 Functional requirements
