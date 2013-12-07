@@ -10,13 +10,30 @@ Version history (if exist)
 Overall description of the project, context
 Overall description of the system
  
-3. Use cases - Jeremy
- 
-Definition of the user groups
-Use case diagrams
-Use case scenarios (based on template)
-Depiction of one use case as a flow chart
- 
+#3. Use cases 
+##User Groupd
+* Student
+* Teacher
+* Staff
+* Guest
+* Generic User
+
+##Use case diagram and Description
+![myflowchart](http://users.metropolia.fi/~jeremyk/SoftEng/usecasedia.JPG)
+
+##Use case scenarios (based on template)
+1. Open the phone
+2. Open the app
+3. Sign in as Guest or with account
+3. Choose navigation
+2. Choose your destination
+3. Internet could fail, use internal GPS ( ###offline mode )
+4. E-mail,alarm and other settings they will come acording to the significance and timing of course.
+5. Generic user has reached the destination
+
+##Depiction of one use case as a flow chart
+![myflowchart](http://users.metropolia.fi/~jeremyk/SoftEng/flowchart.JPG)
+
 #4.System architecture
 ##4.1 High-level overview of the system
 Kana2.0 is a navigation app with more interesting features. The database is consisted of the whole school map. The app runs using the WIFI to detect the position of the user. It is an indoor GPS system.
