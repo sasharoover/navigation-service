@@ -27,7 +27,7 @@ Overall description of the system
 3. Sign in as Guest or with account
 3. Choose navigation
 2. Choose your destination
-3. Internet could fail, use internal GPS ( ###offline mode )
+3. Internet could fail, use internal GPS ( offline mode )
 4. E-mail,alarm and other settings they will come acording to the significance and timing of course.
 5. Generic user has reached the destination
 
