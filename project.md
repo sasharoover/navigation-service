@@ -1,7 +1,7 @@
 #1.Title - "requirements of the system MyWay1.0" 
 * Team name: MyWay1.0
 * Team members: 
-* 
+
         * Aleksandr Tikachev
 	* Jeremy Kyejo
 	* Bilen Gerawork
