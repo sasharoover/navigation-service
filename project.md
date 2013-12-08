@@ -31,7 +31,7 @@ Overall description of the system
 4. E-mail,alarm and other settings they will come acording to the significance and timing of course.
 5. Generic user has reached the destination
 
-##Depiction of one use case as a flow chart
+##Depiction of one use case as a flowchart
 ![myflowchart](http://users.metropolia.fi/~jeremyk/SoftEng/flowchart1.JPG)
 
 #4.System architecture
