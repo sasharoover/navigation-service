@@ -2,12 +2,12 @@
 * Team name: MyWay1.0
 * Team members:listed below 
 
-        * Aleksandr Tikachev 
+        
 	* Jeremy Kyejo
 	* Bilen Gerawork
 	* Masinde Masinde
 	* Zelalem Aragie
-
+        * Aleksandr Tikachev 
 #2. Introduction 
  
 The project is mainly a navigation real time system application that helps users to find a specific locations indoor and outdoor unlike GPS satellite navigation; which is outdoor. The idea is using the internet from phone and also WIFI. There is also a cool voice function for blind people. There are other functionalities and features as well.These features are email and eventnotifications, schedule, newsfeed and games. Those features are also interesting from the market perspective.
