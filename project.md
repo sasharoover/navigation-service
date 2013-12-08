@@ -89,7 +89,7 @@ What kind of metrics you should use to guarantee unambiguity?
        * Aleksandr Tikachev : 25 hours
        * Jeremy Kyejo :36 hours
        * Bilen Gerawork : 30 hours
-       * Masinde Masinde : 25 hours
+       * Masinde Masinde : 29 hours
        * Zelalem Aragie :25 hours
  * It was difficult because in real work situation there is a person whose job is to right down the hours for you and moreover the person also notes down these working hours from start.
  *  We would take more time off from school (other courses) to concentrate on this kind of project.
