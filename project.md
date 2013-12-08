@@ -55,16 +55,42 @@ The main modules and functions of this indoor navigation app could be seen as fo
 * General view – Is the about the path and the picture view that appears in the app. Its functionality is more likely straight forward. At the main page there is simple search destination bar which have a submit button next to it. And 
 
 
-#5. Requirements (in traceable (and measurable) format) - Sasha
-##Functional requirements
+#5. Requirements
+## 5.1 Functional requirements
+
+1. Authentification
+ * REQ-1 Input data should be valid
+ * REQ-2 Application checks user's group and building interface relaying on the group.
+
+2. Choosing location method
+ * REQ-1 Application checks if there is WI-FI connection, if yes it uses WI-FI to get the location
+ * REQ-2 If the mobile device is outdoor and there is no WI-FI connection, apllication is using GPS.
+
+3. Recieving directions data from user
+ * REQ-1 Application is recieving user's input and making search for the directions and shortest way
+ * REQ-2 Input data should be valid
+ * REQ-3 Application immideately start to evaluate the way path, distance and approximate time
+
+4. Schedule
+ * REQ-1 Users can put the information by themselves
+ * REQ-2 Application synchronising with facebook and email schedule
+ * REQ-3 Application must send notification in advance. Time of sending notification can be edited in user settings.
+
+5. Voice guide
+ * REQ-1 Recognising the user's voice and comparing input with interpretator
+ * REQ-2 Application makes voice advises(key words, short instruction)
+ * REQ-3 Application makes voice instructions(where to go, how long, etc.)
+
 ##Non-functional system requirements
-Usability: how do you ensure that your system is easy to use?
+1. Usability:
+ * System has different user groups, which is make it flexible for different needs
+ * Notifications makes 
 Reliability: how do you ensure that your system is reliable? List the possible system failures and how the system reacts to them
 Efficiency: there are multiple people using your system. How do ensure that the system is efficient enough? What metrics would you use?
 What other non-functional requirements should be documented?
 What kind of metrics you should use to guarantee unambiguity?
  
-#6. User interface - 
+#6. User interface
 ##The views / components of the system and The functionalities of each view
 
 #User Interface
@@ -81,6 +107,7 @@ What kind of metrics you should use to guarantee unambiguity?
  * Events 
  * Voice guide 
  * news
+ * settings
  * Back 
  * Logout
 
