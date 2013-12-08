@@ -43,7 +43,7 @@ The project is mainly a navigation real time system application that helps users
 ##4.1 High-level overview of the system
 Kana2.0 is a navigation app with more interesting features. The database is consisted of the whole school map. The app runs using the WIFI to detect the position of the user. It is an indoor GPS system.
 ###4.2 Main modules and their functions represented
-![myflowchart](http://users.metropolia.fi/~bileng/SoftEng/HL.JPG)
+![myflowchart](http://users.metropolia.fi/~bileng/SoftEng/hl.JPG)
 The main modules and functions of this indoor navigation app could be seen as follows:-
 * Positioning service – this is the main functionality of the app. It provides information how to get the shortest path of a definite location and it checks also the crowd. After all, it will provide the most preferable way. And according to significance the app continues working. The voice command is also inside this service but it is considered as a different feature. 
 * The information service – This functionality is the next important service the app provides to the user. It simply notifies the most important notifications like e-mails, news feed, events, and schedule; for example in case of next class and deadline reminder and games.
