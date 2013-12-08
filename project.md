@@ -82,14 +82,23 @@ The main modules and functions of this indoor navigation app could be seen as fo
  * REQ-3 Application makes voice instructions(where to go, how long, etc.)
 
 ##Non-functional system requirements
+
 1. Usability:
  * System has different user groups, which is make it flexible for different needs
- * Notifications makes 
-Reliability: how do you ensure that your system is reliable? List the possible system failures and how the system reacts to them
-Efficiency: there are multiple people using your system. How do ensure that the system is efficient enough? What metrics would you use?
-What other non-functional requirements should be documented?
-What kind of metrics you should use to guarantee unambiguity?
+ * Voice control helps users with different abilities
+ * Application can guess which spot user wants to point, even if user is not accurate enough
+ * Works outdoor and indoor
+ * 
+2. Reliability: 
+ * If destination input is not valid application explains to user what was wrong in inout data
+ * If GPS or WI-FI is not working in certain area system informs user about it and allow user to use the availible map offline
+ * System is making backups of user data, so if system is crushing it restore the data from the backup
  
+3. Efficiency: 
+ * Using both WI-FI and GPS location methods makes system more efficient, it can work almost everywhere.
+ * Different user groups adopt system to different needs
+
+
 #6. User interface
 ##The views / components of the system and The functionalities of each view
 
