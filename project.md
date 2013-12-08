@@ -61,9 +61,8 @@ Efficiency: there are multiple people using your system. How do ensure that the 
 What other non-functional requirements should be documented?
 What kind of metrics you should use to guarantee unambiguity?
  
-#6. User interface - Masinde
-##What are the views / components of the system? What are the functionalities of each view?
-Illustrate each view and what it is used for (Textual explanation ok, no need for pictures!)
+#6. User interface - 
+##The views / components of the system and The functionalities of each view
 
 #User Interface
 
