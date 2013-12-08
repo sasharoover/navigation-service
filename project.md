@@ -32,8 +32,8 @@ The project is mainly a navigation real time system application that helps users
 3. Sign in as Guest or with account
 3. Choose navigation
 2. Choose your destination
-3. Internet could fail, use internal GPS ( offline mode )
-4. E-mail,alarm and other settings they will come acording to the significance and timing of course.
+3. Internet could fail, use internal GPS(for out door) and or use history offline mode (indoor)
+4. E-mail,alarm and other settings they will come according to the significance and timing of course.
 5. Generic user has reached the destination
 
 ##Depiction of one use case as a flowchart
