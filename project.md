@@ -90,7 +90,7 @@ What kind of metrics you should use to guarantee unambiguity?
        * Zelalem Aragie :25 hours
  * It was difficult because in real work situation there is a person whose job is to right down the hours for you and moreover the person also notes down these working hours from start.
  *  We would take more time off from school (other courses) to concentrate on this kind of project.
- * We would definetly buy this product. I mean who wouldn't 
-enjoy and have fun with this navigation service.
+ * We would definetly buy this product. Who wouldn't 
+enjoy and have fun with this navigation service? the answer to that of course noone.
  * The most difficult part would be the requirements (functional and 
 non functional) and system architecture.
