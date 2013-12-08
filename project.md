@@ -1,11 +1,11 @@
 #1.Title - "requirements of the system MyWay1.0" 
-Team name: MyWay1.0
-Team members: 
- Aleksandr Tikachev
-	Jeremy Kyejo
-	Bilen Gerawork
-	Masinde Masinde
-	Zelalem Aragie
+* Team name: MyWay1.0
+* Team members: 
+        * Aleksandr Tikachev
+	* Jeremy Kyejo
+	* Bilen Gerawork
+	* Masinde Masinde
+	* Zelalem Aragie
 
 #2. Introduction 
  
@@ -73,12 +73,12 @@ Illustrate each view and what it is used for (Textual explanation ok, no need fo
  * Logout
 
 #7. Project management, self reflection
- #Working hours
- Aleksandr Tikachev : 25 hours
-	Jeremy Kyejo :36 hours
-	Bilen Gerawork : 30 hours
-	Masinde Masinde : 25 hours
-	Zelalem Aragie :25 hours
+#Working hours
+       * Aleksandr Tikachev : 25 hours
+       * Jeremy Kyejo :36 hours
+       * Bilen Gerawork : 30 hours
+       * Masinde Masinde : 25 hours
+       * Zelalem Aragie :25 hours
  * It was difficult because in real work situation there is a person whose job is to right down the hours for you and moreover the person also notes down these working hours from start.
  *  We would take more time off from school (other courses) to concentrate on this kind of project.
  * We would definetly buy this product. I mean who wouldn't 
