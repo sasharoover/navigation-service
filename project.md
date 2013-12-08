@@ -45,11 +45,11 @@ Kana2.0 is a navigation app with more interesting features. The database is cons
 ###4.2 Main modules and their functions represented
 ![myflowchart](http://users.metropolia.fi/~bileng/SoftEng/HL.JPG)
 The main modules and functions of this indoor navigation app could be seen as follows:-
-* positioning service –
+* Positioning service – this is the main functionality of the app. It provides information how to get the shortest path of a definite location and it checks also the crowd. After all, it will provide the most preferable way. And according to significance the app continues working. The voice command is also inside this service but it is considered as a different feature. 
 * The information service – This functionality is the next important service the app provides to the user. It simply notifies the most important notifications like e-mails, news feed, events, and schedule; for example in case of next class and deadline reminder and games.
 * Authentication service – This is the single sign in based for the user safety.
 * Database - Simply thee schools map and news feed from tuubi.
-*General view – Is the about the path and the picture view that appears in the app. Its functionality is more likely straight forward. At the main page there is simple search destination bar which have a submit button next to it. And 
+* General view – Is the about the path and the picture view that appears in the app. Its functionality is more likely straight forward. At the main page there is simple search destination bar which have a submit button next to it. And 
 
 
 #5. Requirements (in traceable (and measurable) format) - Sasha
