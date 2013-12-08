@@ -32,7 +32,7 @@ Overall description of the system
 5. Generic user has reached the destination
 
 ##Depiction of one use case as a flow chart
-![myflowchart](http://users.metropolia.fi/~jeremyk/SoftEng/flowchart.JPG)
+![myflowchart](http://users.metropolia.fi/~jeremyk/SoftEng/flowchart1.JPG)
 
 #4.System architecture
 ##4.1 High-level overview of the system
