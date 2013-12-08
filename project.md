@@ -52,6 +52,7 @@ What kind of metrics you should use to guarantee unambiguity?
 #6. User interface - Masinde
 ##What are the views / components of the system? What are the functionalities of each view?
 Illustrate each view and what it is used for (Textual explanation ok, no need for pictures!)
+
 #User Interface
 
 1. login view
@@ -59,13 +60,13 @@ Illustrate each view and what it is used for (Textual explanation ok, no need fo
   * Password
   * login button
 
-2.Menu 
-* navigation and Back to main menu
-* Schedule <- and Back to main menu
-* notification <- and Back to main menu
-* Events <- and Back to main menu
-* Voice guide <- and Back to main menu
-* news <- and Back to main menu
+2. Menu 
+* navigation 
+* Schedule 
+* notification 
+* Events 
+* Voice guide 
+* news
 * Back 
 * Logout
 
