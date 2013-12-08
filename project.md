@@ -1,14 +1,16 @@
-#1. Cover - Zelalem
-Titlet "<Product name>: requirements of the system XX"
-Team name
-Team members
-Date
-Version history (if exist)
+#1.Title - "requirements of the system MyWay1.0" 
+Team name: MyWay1.0
+Team members: 
+ Aleksandr Tikachev
+	Jeremy Kyejo
+	Bilen Gerawork
+	Masinde Masinde
+	Zelalem Aragie
+
+#2. Introduction 
  
-#2. Introduction - Zelalem
- 
-Overall description of the project, context
-Overall description of the system
+The project is mainly a navigation real time system application that helps users to find a specific locations indoor and outdoor unlike GPS satellite navigation; which is outdoor. The idea is using the internet from phone and also WIFI. There is also a cool voice function for blind people. There are other functionalities and features as well.These features are email and eventnotifications, schedule, newsfeed and games. Those features are also interesting from the market perspective.
+
  
 #3. Use cases 
 ##User Groups
@@ -70,9 +72,16 @@ Illustrate each view and what it is used for (Textual explanation ok, no need fo
  * Back 
  * Logout
 
-#7. Project management, self reflection - Zelalem
-##List the realized working hours, that is, how many hours did this work really take. List the hours separately per person.
-Was it difficult to estimate workload, how much the estimation differed from real working hours?
-What would you do differently on the next project? Was your project success, would you buy your product?
-What was the most difficult part in the documentation? Is there something that you were not satisfied with?
-Grading
+#7. Project management, self reflection
+ #Working hours
+ Aleksandr Tikachev : 25 hours
+	Jeremy Kyejo :36 hours
+	Bilen Gerawork : 30 hours
+	Masinde Masinde : 25 hours
+	Zelalem Aragie :25 hours
+ * It was difficult because in real work situation there is a person whose job is to right down the hours for you and moreover the person also notes down these working hours from start.
+ *  We would take more time off from school (other courses) to concentrate on this kind of project.
+ * We would definetly buy this product. I mean who wouldn't 
+enjoy and have fun with this navigation service.
+ * The most difficult part would be the requirements (functional and 
+non functional) and system architecture.
