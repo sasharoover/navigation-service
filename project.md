@@ -55,20 +55,20 @@ Illustrate each view and what it is used for (Textual explanation ok, no need fo
 
 #User Interface
 
-1. login view
+#1. login view
   * Username
   * Password
   * login button
 
-2. Menu 
-* navigation 
-* Schedule 
-* notification 
-* Events 
-* Voice guide 
-* news
-* Back 
-* Logout
+#2. Menu 
+ * navigation 
+ * Schedule 
+ * notification 
+ * Events 
+ * Voice guide 
+ * news
+ * Back 
+ * Logout
 
 #7. Project management, self reflection - Zelalem
 ##List the realized working hours, that is, how many hours did this work really take. List the hours separately per person.
