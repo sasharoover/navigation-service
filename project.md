@@ -2,7 +2,7 @@
 * Team name: MyWay1.0
 * Team members:listed below 
 
-        * Aleksandr Tikachev
+        * Aleksandr Tikachev 
 	* Jeremy Kyejo
 	* Bilen Gerawork
 	* Masinde Masinde
