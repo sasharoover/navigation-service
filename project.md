@@ -44,7 +44,7 @@ The project is mainly a real time navigation  system application that helps user
 
 #4.System architecture
 ##4.1 High-level overview of the system
-Kana2.0 is a navigation app with more interesting features. The database is consisted of the whole school map. The app runs using the WIFI to detect the position of the user. It is an indoor GPS system.
+MyWay1.0 is a navigation app with more interesting features. The database is consisted of the whole school map. The app runs using the WIFI to detect the position of the user. It is an indoor GPS system.
 ###4.2 Main modules and their functions represented
 ![myflowchart](http://users.metropolia.fi/~bileng/SoftEng/hl.JPG)
 The main modules and functions of this indoor navigation app could be seen as follows:-
