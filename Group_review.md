@@ -39,16 +39,16 @@
 **Parts to review:**
 
 1. **introduction (=first section) + project management (=last section)**
-######Ans:
+######Ans: Straight forward/clear intro and project management was written well with in phase of week 1, week 2 etc. Especially the week 3 part on documentaion where they mentioned that they would like to continue the project and implement it in real life situation. 
 
 2. **use cases**
-######Ans:
+######Ans: Good and very detailed use case scenarios for use case like login and Ban user. 
 
 3. **system overview**
-######Ans:
+######Ans: Would wish to see this in real life :) .Looks well done in a good production level. 
 
 4. **requirements, functional & non-functional**
-######Ans:
+######Ans: Great functional requirements. On the other non-functional requirements it would be good to have metric as well especially with the point like Speed.
 
 5. **user interface**
-######Ans:
+######Ans: And on user interface as well, they explained all well in such a way that it would be easy for a new person to understand it and even implement some of the stuff. We would have liked more user interface pictures of real life or mobile mockups rather that on paper drawing.
