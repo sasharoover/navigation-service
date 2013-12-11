@@ -7,7 +7,7 @@
 ---
 #### Presentation review
 
-**Link to the slideset:** [a link](http://users.metropolia.fi/~jeremyk/SoftEng/softwarePresent.pptx)
+**Link to the slideset:** [Presentaion Slide](http://users.metropolia.fi/~jeremyk/SoftEng/softwarePresent.pptx)
 * Did you get overall view of the product?
 - Yes, it was awesome. We got the point
 
@@ -26,7 +26,7 @@
 ---
 #### Document review
 
-**Link to the documentation:** [a link](https://github.com/kiugfractal/SEProject/blob/master/Project.md)
+**Link to the documentation:** [Document](https://github.com/kiugfractal/SEProject/blob/master/Project.md)
 
 **Review the following parts of the documentation.**<BR/>
 **For each section / part, describe the following:**
